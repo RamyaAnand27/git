@@ -23,6 +23,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+   https://github.com/RamyaAnand27/githomework1.git
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
@@ -30,6 +31,7 @@
 3. Use `echo` into the 5 empty files a few sentences about anything
 4. Stage, commit and push your work on GitHub
 5. Open up a pull request
+   https://github.com/RamyaAnand27/githomework1/pull/1
 
 ### Submission
 
