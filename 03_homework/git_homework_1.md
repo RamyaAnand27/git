@@ -9,9 +9,13 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
+7. ![image](https://github.com/RamyaAnand27/git/assets/167229151/22cc0db0-7e89-4a8a-a023-af153d074c96)
+
 8. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+10. ![image](https://github.com/RamyaAnand27/git/assets/167229151/f644bc39-af98-4099-b9b4-38f031f6e662)
+
 
 ### Task 2
 1. Create a new public repository on GitHub
